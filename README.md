@@ -46,16 +46,8 @@
 <a href="https://redux.js.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss-2.svg" alt="tailwind" width="40" height="40"/>
-</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
 </a>
-</p>
-
-
-<h3 align="left">GitHub Stats 📊</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=youseif-elshreif&show_icons=true&theme=dark" alt="Youseif's GitHub stats"/>
 </p>
