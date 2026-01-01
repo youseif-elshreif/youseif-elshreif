@@ -54,14 +54,6 @@
 </a>
 </p>
 
----
-
-<h3 align="left">Fun Fact ⚡</h3>
-<p align="left">
-I think I am funny 😄
-</p>
-
----
 
 <h3 align="left">GitHub Stats 📊</h3>
 <p align="left">
